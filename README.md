@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning, Deep Learning, Neural Networks
+Machine Learning, Deep Learning, Artificial Neural Networks
